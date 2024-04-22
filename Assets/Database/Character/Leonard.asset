@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67ff4ea6ed07bb745a9240b9249cbf52, type: 3}
+  m_Name: Leonard
+  m_EditorClassIdentifier: 
+  speed: 100
+  runMultiplier: 2.3
+  runButton: 304
+  jumpButton: 32
+  animatorAngle: 0
+  animatorSpeed: 0
+  animatorRun: 0
